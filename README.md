@@ -3,4 +3,4 @@
 2. Greetings
 3. Math Utils
 4. List Utils
-5. Main Generator
+5. Number Generator
